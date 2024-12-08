@@ -19,6 +19,7 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 
 ---
 ### Iter Node Editor Tool - QT-Python Overview
+---
 
 [![Watch the video](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExcWJpbmV4NmsxMHgyYjllamk3cTZzZjIybGNpbHppdG9xcHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJdOBEFA3RNnu3IDwf/giphy.gif)](https://vimeo.com/899695629)
 
@@ -30,6 +31,10 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 ```bash
 rez env iter -- iter
 ```
+
+---
+#### UI
+---
 
 #### Edit UI
 ![edit ui](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY2YmZ0cGI3Z3NnYWJkbzNpeGM3azZhc2o5bG0wd2FiMWcxY2FkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F63dKnXzlPTSUoaWB2/giphy.webp)
@@ -60,24 +65,32 @@ In the **Edit Menu**:
 
 #### Nodes
 
+---
+
 #### Create Node
 ![create node](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluMWEwMHR1dzIxdDh5YTh4a2RvODZtczBsc2M1cmY2eWhobDljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsZHWd0oYdmj2MuTPf/giphy.webp)
 
-To create a new node, right-click on the workspace and select the node you want to add.
+To create a new node, right-click on the workspace and select the desired node from the context menu.
 
+---
 
-#### Node info
+#### Node Info
 ![node info](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1ldnB2cm1xdDhrZW1xcGN5Y3A0dHhmc3JjaDJsdzBsZTlhcXMxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lemKlKrnvnxDbaIwD/giphy.webp)
 
-To display Node info Right+Click on the Node.
+To view the information of a node, right-click on the node and select **Node Info** from the menu.
 
-#### Node connection
+---
+
+#### Node Connection
 ![node connection](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0MnNsY3kxeTZmOWxnbHZuczV2ZzB4YTcxYTVjNDd5cnNnbXN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjB3c6THxDxMIaUz7L/giphy.webp)
 
-You can connect the node with the left click.
+To connect a node, left-click on the output of one node and drag it to the input of another node.
 
-#### Node cut connection
+---
+
+#### Node Cut Connection
 ![node cut](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkwZ3hoYmMycmd1ODdta3RucnBsdWlzYmdtaHhrd3l6aGg2cmcwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sz8nt5KvLW030VR033/giphy.webp)
 
-Ctrl + left click and drag the cut tool.
+To cut a node connection, hold **Ctrl** and left-click while dragging the cut tool to remove the connection between nodes.
 
+---
