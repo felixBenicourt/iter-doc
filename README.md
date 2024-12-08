@@ -1,3 +1,4 @@
+# Work in progress
 
 # Iter Node Tool
 
@@ -33,14 +34,36 @@ rez env iter -- iter
 #### Edit UI
 ![edit ui](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY2YmZ0cGI3Z3NnYWJkbzNpeGM3azZhc2o5bG0wd2FiMWcxY2FkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F63dKnXzlPTSUoaWB2/giphy.webp)
 
+You can easily customize the layout of the UI by changing the positions of the windows and docking them wherever you prefer.
+
+---
 
 #### Create Node Graph
 ![create graph](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2wzbmliczloajRpeW9rdDd6amNqOHE1YWhtN2FpY3lrM2ZtMDdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgXg27o1RIC2uaourB/giphy.webp)
 
+To create a new node graph, right-click on the workspace and select the node you want to add.
+
+---
 
 #### Open Node Graph
 ![open graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
 
+In the **File Menu**:
+- **New:** `Ctrl+N` to create a new node graph.
+- **Open:** `Ctrl+O` to open an existing `.Json` node graph file.
+- **Save:** `Ctrl+S` to save your current node graph.
+- **Save As:** `Ctrl+Shift+S` to save your node graph as a `.Json` file with a new name.
+- **Exit:** `Ctrl+Q` to exit the Iter tool.
+
+In the **Edit Menu**:
+- **Undo:** `Ctrl+Z` to undo your last operation.
+- **Redo:** `Ctrl+Shift+Z` to redo the previously undone operation.
+- **Cut:** `Ctrl+X` to cut the selected nodes.
+- **Copy:** `Ctrl+C` to copy the selected nodes.
+- **Paste:** `Ctrl+V` to paste the copied or cut nodes.
+- **Delete:** `Del` to delete the selected nodes.
+
+---
 
 #### Create Node
 ![create node](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluMWEwMHR1dzIxdDh5YTh4a2RvODZtczBsc2M1cmY2eWhobDljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsZHWd0oYdmj2MuTPf/giphy.webp)
