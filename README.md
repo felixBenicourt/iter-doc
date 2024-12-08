@@ -36,7 +36,7 @@ rez env iter -- iter
 
 
 #### Create Node Graph
-![create graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
+![create graph](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2wzbmliczloajRpeW9rdDd6amNqOHE1YWhtN2FpY3lrM2ZtMDdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgXg27o1RIC2uaourB/giphy.webp)
 
 
 #### Open Node Graph
