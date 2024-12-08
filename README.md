@@ -38,8 +38,8 @@ You can easily customize the layout of the UI by changing the positions of the w
 
 ---
 
-#### Open Node Graph
-![open graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
+#### Manage Node Graph
+![Manage graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
 
 In the **File Menu**:
 - **New:** `Ctrl+N` to create a new node graph.
