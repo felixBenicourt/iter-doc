@@ -69,13 +69,15 @@ To create a new node, right-click on the workspace and select the node you want 
 #### Node info
 ![node info](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1ldnB2cm1xdDhrZW1xcGN5Y3A0dHhmc3JjaDJsdzBsZTlhcXMxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lemKlKrnvnxDbaIwD/giphy.webp)
 
+To display Node info Right+Click on the Node.
 
 #### Node connection
 ![node connection](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0MnNsY3kxeTZmOWxnbHZuczV2ZzB4YTcxYTVjNDd5cnNnbXN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjB3c6THxDxMIaUz7L/giphy.webp)
 
+You can connect the node with the left click.
 
 #### Node cut connection
 ![node cut](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkwZ3hoYmMycmd1ODdta3RucnBsdWlzYmdtaHhrd3l6aGg2cmcwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sz8nt5KvLW030VR033/giphy.webp)
 
-
+Ctrl + left click and drag the cut tool.
 
