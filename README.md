@@ -31,7 +31,7 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 #### Create Node
 ![create Node](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRrOXhyaWlzOWx3dmtwZm5uM3M4NzhyMWw1YjRobG04eDNibGVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsZHWd0oYdmj2MuTPf/giphy.webp)
 
-
+---
 
 ```bash
 rez env iter -- iter
