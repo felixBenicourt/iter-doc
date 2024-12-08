@@ -12,13 +12,14 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 
 ## Table of Contents
 
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
+- [Overview](#Overview)
+- [UI](#UI)
+- [Nodes](#Nodes)
 - [License](#license)
 
+
 ---
-### Iter Node Editor Tool - QT-Python Overview
+### Overview
 ---
 
 [![Watch the video](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExcWJpbmV4NmsxMHgyYjllamk3cTZzZjIybGNpbHppdG9xcHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJdOBEFA3RNnu3IDwf/giphy.gif)](https://vimeo.com/899695629)
@@ -123,8 +124,6 @@ subject to the following conditions:
      IN THE SOFTWARE.
 
 ```
-
-
 
 
 
