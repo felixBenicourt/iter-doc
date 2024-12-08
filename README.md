@@ -20,7 +20,7 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 ---
 ### Iter Node Editor Tool - QT-Python Overview
 
-[Watch the Iter Node Editor Tool overview on Vimeo](https://vimeo.com/899695629)
+[![Watch the video](https://i.vimeocdn.com/video/899695629_640x360.jpg)](https://vimeo.com/899695629)
 
 
 #### launch Iter
