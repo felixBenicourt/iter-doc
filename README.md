@@ -38,13 +38,6 @@ You can easily customize the layout of the UI by changing the positions of the w
 
 ---
 
-#### Create Node Graph
-![create graph](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2wzbmliczloajRpeW9rdDd6amNqOHE1YWhtN2FpY3lrM2ZtMDdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgXg27o1RIC2uaourB/giphy.webp)
-
-To create a new node graph, right-click on the workspace and select the node you want to add.
-
----
-
 #### Open Node Graph
 ![open graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
 
@@ -67,6 +60,8 @@ In the **Edit Menu**:
 
 #### Create Node
 ![create node](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluMWEwMHR1dzIxdDh5YTh4a2RvODZtczBsc2M1cmY2eWhobDljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsZHWd0oYdmj2MuTPf/giphy.webp)
+
+To create a new node, right-click on the workspace and select the node you want to add.
 
 
 #### Node info
