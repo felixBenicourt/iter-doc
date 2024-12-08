@@ -18,8 +18,8 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 - [License](#license)
 
 ---
-#### Iter node editor tool QT-Python overview
-[Iter node editor tool](https://vimeo.com/manage/videos/899695629)
+### Iter Node Editor Tool - QT-Python Overview
+<iframe src="https://player.vimeo.com/video/899695629" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 #### launch Iter
 ![rez cmd](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdwMTJidzJ3bm04dnM5OGZybTczeTdoY3hhbnY2OHEzdG5zZ3Q1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NlnKLDnvbK1cYyzarP/giphy.gif)
