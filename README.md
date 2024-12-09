@@ -42,8 +42,8 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 [![Watch the video](https://i.imgur.com/pnzVSil.gif)](https://vimeo.com/899695629)
 
 
-#### launch Iter
-![rez cmd](https://i.imgur.com/I8GIMg9.gifv)
+#### Launch Iter
+[![rez cmd](https://i.imgur.com/1107Hr1.gif)](https://i.imgur.com/1107Hr1.gifv)
 
 
 ```bash
