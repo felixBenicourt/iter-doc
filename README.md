@@ -1,6 +1,4 @@
 
-![rez cmd](https://previews.dropbox.com/p/thumb/ACeGAgO9np5xUcjRLWTQ0Yp2G_7HQmyNidYtzqDbuZzqQaqWxWs2TToRMh5rxUiH302LW-RvKqrmHcvVMCPUz9HAjFrsRbsWgvhd1iXxV8q3i1ZM_ScP7_AxBbNyY8Hz_51X9bpP9oMA5aWzLx5xiXd-Ggcva0vfRuuALQOwgGU8Js-N070fUUSvNZfNBaSCQdcYdi3JxENSD0kPNy9Y0TLxAoPUy2xnMOKoF9L6Vx0FTBc94QUmPLCdzh8cveL2ePFPX31FtVeWy9lmG5sSmnMQBj0sjylRuj9c6AMclW3l7hniSxHkA39rC4mS5dc9Jwg/p.gif)
-
 # Iter Node Tool Documentation
 
 ## Pages
