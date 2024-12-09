@@ -1,7 +1,7 @@
 
 # Iter Node Tool
 
-## Overview
+## Intro
 The Iter Node Tool is a versatile, node-based system designed to enhance productivity and streamline workflows for artists, developers, and technical directors working in various DCC  such as Maya, Unreal Engine, Houdini, and Blender.
 
 This tool allows users to build, execute, and manage custom scripts, commands, and automation tasks through an intuitive node-based interface.
@@ -18,7 +18,7 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 
 
 ---
-### Overview
+## Overview
 ---
 
 [![Watch the video](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExcWJpbmV4NmsxMHgyYjllamk3cTZzZjIybGNpbHppdG9xcHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJdOBEFA3RNnu3IDwf/giphy.gif)](https://vimeo.com/899695629)
@@ -33,7 +33,7 @@ rez env iter -- iter
 ```
 
 ---
-#### UI
+## UI
 ---
 
 #### Edit UI
@@ -63,7 +63,7 @@ In the **Edit Menu**:
 
 ---
 
-#### Nodes
+## Nodes
 
 ---
 
