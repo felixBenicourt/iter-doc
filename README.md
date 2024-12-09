@@ -17,9 +17,9 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 - [License](#license)
 
 
----
+
 ## Overview
----
+
 
 [![Watch the video](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExcWJpbmV4NmsxMHgyYjllamk3cTZzZjIybGNpbHppdG9xcHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJdOBEFA3RNnu3IDwf/giphy.gif)](https://vimeo.com/899695629)
 
@@ -32,9 +32,9 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 rez env iter -- iter
 ```
 
----
+
 ## UI
----
+
 
 #### Edit UI
 ![edit ui](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY2YmZ0cGI3Z3NnYWJkbzNpeGM3azZhc2o5bG0wd2FiMWcxY2FkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F63dKnXzlPTSUoaWB2/giphy.webp)
@@ -61,11 +61,11 @@ In the **Edit Menu**:
 - **Paste:** `Ctrl+V` to paste the copied or cut nodes.
 - **Delete:** `Del` to delete the selected nodes.
 
----
+
 
 ## Nodes
 
----
+
 
 #### Create Node
 ![create node](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluMWEwMHR1dzIxdDh5YTh4a2RvODZtczBsc2M1cmY2eWhobDljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsZHWd0oYdmj2MuTPf/giphy.webp)
