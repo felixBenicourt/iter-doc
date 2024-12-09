@@ -16,8 +16,7 @@
 5. [Examples and Tutorials](#examples-and-tutorials)
    - [Basic Node Graph Example](#basic-node-graph-example)
    - [Advanced Workflow](#advanced-workflow)
-6. [License](#license)
-
+6. [License](#docs/license)
 
 ---
 
