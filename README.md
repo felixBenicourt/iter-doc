@@ -1,4 +1,6 @@
 
+![rez cmd](https://www.dropbox.com/home/demo_dev?preview=new_scene.gif)
+
 # Iter Node Tool Documentation
 
 ## Pages
