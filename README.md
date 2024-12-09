@@ -27,7 +27,6 @@
    - [Basic Node Graph Example](#basic-node-graph-example)
    - [Advanced Workflow](#advanced-workflow)
 7. [License](#license)
-8. [About the Author](#about-the-author)
 
 
 ---
