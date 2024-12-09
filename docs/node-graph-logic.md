@@ -1,3 +1,22 @@
+## Table of Contents
+
+1. [User Interface](./docs/ui-overview.md)
+   - [Customizing the Layout](./docs/customizing-the-layout.md)
+   - [Managing Node Graphs](./docs/managing-node-graphs.md)
+2. [Using Nodes](./docs/using-nodes.md)
+   - [Node Graph Logic](./docs/node-graph-logic.md)
+   - [Nodes](./docs/node-list.md)
+3. [Window Options](./docs/window-options.md)
+4. [Advanced Features](./docs/advanced-features.md)
+   - [Scripting with Python](./docs/scripting-with-python.md)
+   - [Iter Python API](./docs/iter-python-api.md)
+5. [Examples and Tutorials](./docs/examples-and-tutorials.md)
+   - [Basic Node Graph Example](./docs/basic-node-graph-example.md)
+   - [Advanced Workflow](./docs/advanced-workflow.md)
+6. [License](./docs/license.md)
+
+---
+
 # Nodes
 
 ## Table of Contents
@@ -23,21 +42,4 @@ Each node has a specific purpose, and when combined with other nodes, they can f
 
 By following this logical evaluation process, you can build intricate and dynamic systems by simply combining different nodes and their respective functions.
 
----
 
-## Table of Contents
-
-1. [User Interface](./docs/ui-overview.md)
-   - [Customizing the Layout](./docs/customizing-the-layout.md)
-   - [Managing Node Graphs](./docs/managing-node-graphs.md)
-2. [Using Nodes](./docs/using-nodes.md)
-   - [Node Graph Logic](./docs/node-graph-logic.md)
-   - [Nodes](./docs/node-list.md)
-3. [Window Options](./docs/window-options.md)
-4. [Advanced Features](./docs/advanced-features.md)
-   - [Scripting with Python](./docs/scripting-with-python.md)
-   - [Iter Python API](./docs/iter-python-api.md)
-5. [Examples and Tutorials](./docs/examples-and-tutorials.md)
-   - [Basic Node Graph Example](./docs/basic-node-graph-example.md)
-   - [Advanced Workflow](./docs/advanced-workflow.md)
-6. [License](./docs/license.md)
