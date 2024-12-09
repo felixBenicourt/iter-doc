@@ -3,7 +3,7 @@
 
 ## Pages
 
-0. [README](./README.md)
+- [README](./README.md)
 1. [User Interface](./docs/ui-overview.md)
    - [Customizing the Layout](./docs/customizing-the-layout.md)
    - [Managing Node Graphs](./docs/managing-node-graphs.md)
