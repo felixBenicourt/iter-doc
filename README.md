@@ -8,7 +8,7 @@
    - [Managing Node Graphs](./docs/managing-node-graphs.md)
 2. [Using Nodes](./docs/using-nodes.md)
    - [Node Graph Logic](./docs/node-graph-logic.md)
-   - [Node List](./docs/node-list.md)
+   - [Nodes](./docs/node-list.md)
 3. [Window Options](./docs/window-options.md)
 4. [Advanced Features](./docs/advanced-features.md)
    - [Scripting with Python](./docs/scripting-with-python.md)
