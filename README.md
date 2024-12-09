@@ -1,7 +1,7 @@
 
 # Iter Node Tool Documentation
 
-## Table of Contents
+## Pages
 
 0. [README](README.md)
 1. [User Interface](./docs/ui-overview.md)
