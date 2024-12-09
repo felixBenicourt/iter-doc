@@ -1,6 +1,9 @@
 
 # Iter Node Tool
 
+For more details, refer to the [Advanced Usage Guide](docs/advanced_usage.md).
+
+
 ## Intro
 The Iter Node Tool is a versatile, node-based system designed to enhance productivity and streamline workflows for artists, developers, and technical directors working in various DCC  such as Maya, Unreal Engine, Houdini, and Blender.
 
