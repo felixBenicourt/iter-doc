@@ -27,7 +27,6 @@ The Iter Node Tool is a versatile, node-based system designed to enhance product
 This tool allows users to build, execute, and manage custom scripts, commands, and automation tasks through an intuitive node-based interface.
 
 
-
 ## Table of Contents
 
 - [Overview](#Overview)
@@ -36,16 +35,13 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 - [License](#license)
 
 
-
 ## Overview
 
 [![Watch the video](https://i.imgur.com/pnzVSil.gif)](https://vimeo.com/899695629)
 
 
-#### launch Iter
-
 #### Launch Iter
-[View GIF on Imgur](https://i.imgur.com/1107Hr1.gifv)
+[View GIF on Imgur](https://i.imgur.com/1eeZYEM.gifv)
 
 ```bash
 rez env iter -- iter
