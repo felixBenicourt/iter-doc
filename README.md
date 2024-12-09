@@ -43,7 +43,7 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 
 
 #### Launch Iter
-[![rez cmd](https://i.imgur.com/stee7nJ.gif)]
+[![rez cmd](https://i.imgur.com/EC0SitEh.gif)]
 
 
 ```bash
