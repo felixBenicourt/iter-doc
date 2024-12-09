@@ -3,20 +3,20 @@
 
 ## Table of Contents
 
-1. [User Interface](#ui-overview)
-   - [Customizing the Layout](#customizing-the-layout)
-   - [Managing Node Graphs](#managing-node-graphs)
-2. [Using Nodes](#using-nodes)
-   - [Node graph logic](#connecting-nodes)
-   - [Node List](#creating-a-node)
-3. [Windows Options](#menu-options)
-4. [Advanced Features](#advanced-features)
-   - [Scripting with Python](#scripting-with-python)
-   - [Iter Pyhton API](#iter-pyhton)
-5. [Examples and Tutorials](#examples-and-tutorials)
-   - [Basic Node Graph Example](#basic-node-graph-example)
-   - [Advanced Workflow](#advanced-workflow)
-6. [License](#docs/license)
+1. [User Interface](./docs/ui-overview.md)
+   - [Customizing the Layout](./docs/customizing-the-layout.md)
+   - [Managing Node Graphs](./docs/managing-node-graphs.md)
+2. [Using Nodes](./docs/using-nodes.md)
+   - [Node Graph Logic](./docs/node-graph-logic.md)
+   - [Node List](./docs/node-list.md)
+3. [Window Options](./docs/window-options.md)
+4. [Advanced Features](./docs/advanced-features.md)
+   - [Scripting with Python](./docs/scripting-with-python.md)
+   - [Iter Python API](./docs/iter-python-api.md)
+5. [Examples and Tutorials](./docs/examples-and-tutorials.md)
+   - [Basic Node Graph Example](./docs/basic-node-graph-example.md)
+   - [Advanced Workflow](./docs/advanced-workflow.md)
+6. [License](./docs/license.md)
 
 ---
 
