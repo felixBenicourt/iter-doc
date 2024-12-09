@@ -41,7 +41,6 @@ This tool allows users to build, execute, and manage custom scripts, commands, a
 
 
 #### Launch Iter
-[View GIF on Imgur](https://i.imgur.com/1eeZYEM.gifv)
 
 ```bash
 rez env iter -- iter
