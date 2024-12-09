@@ -51,7 +51,8 @@ rez env iter -- iter
 
 
 #### Edit UI
-![edit ui](https://i.imgur.com/1107Hr1b.gif)
+[View GIF on Imgur](https://i.imgur.com/hcJxOXA.gifv)
+
 
 You can easily customize the layout of the UI by changing the positions of the windows and docking them wherever you prefer.
 
