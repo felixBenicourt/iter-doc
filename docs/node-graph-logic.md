@@ -1,5 +1,5 @@
 
-# Node Graph Logic
+# Nodes
 
 ## Table of Contents
 
@@ -20,9 +20,6 @@
 6. [License](./docs/license.md)
 
 ---
-
-
-# Nodes
 
 ## Table of Contents
 - [Nodes Logic](#nodes-logic)
