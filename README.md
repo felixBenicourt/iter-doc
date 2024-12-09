@@ -46,25 +46,62 @@ You can easily customize the layout of the UI by changing the positions of the w
 #### Manage Node Graph
 ![Manage graph](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtbTEwMmw0cTM0ejlzczFkdXQyazRubGk5c3dsbXB4NzdqN3ZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yt6VCDIGFnl7PUFsze/giphy.webp)
 
-In the **File Menu**:
-- **New:** `Ctrl+N` to create a new node graph.
-- **Open:** `Ctrl+O` to open an existing `.Json` node graph file.
-- **Save:** `Ctrl+S` to save your current node graph.
-- **Save As:** `Ctrl+Shift+S` to save your node graph as a `.Json` file with a new name.
-- **Exit:** `Ctrl+Q` to exit the Iter tool.
 
-In the **Edit Menu**:
-- **Undo:** `Ctrl+Z` to undo your last operation.
-- **Redo:** `Ctrl+Shift+Z` to redo the previously undone operation.
-- **Cut:** `Ctrl+X` to cut the selected nodes.
-- **Copy:** `Ctrl+C` to copy the selected nodes.
-- **Paste:** `Ctrl+V` to paste the copied or cut nodes.
-- **Delete:** `Del` to delete the selected nodes.
+## Menu Options
 
+
+### File Menu
+- **New:** `Ctrl+N`  
+  Create a new node graph.
+- **Open:** `Ctrl+O`  
+  Open an existing `.json` node graph file.
+- **Save:** `Ctrl+S`  
+  Save your current node graph.
+- **Save As:** `Ctrl+Shift+S`  
+  Save your node graph as a `.json` file with a new name.
+- **Exit:** `Ctrl+Q`  
+  Exit the Iter Node Tool.
+
+### Edit Menu
+- **Undo:** `Ctrl+Z`  
+  Undo your last operation.
+- **Redo:** `Ctrl+Shift+Z`  
+  Redo the previously undone operation.
+- **Cut:** `Ctrl+X`  
+  Cut the selected nodes.
+- **Copy:** `Ctrl+C`  
+  Copy the selected nodes.
+- **Paste:** `Ctrl+V`  
+  Paste the copied or cut nodes.
+- **Delete:** `Del`  
+  Delete the selected nodes.
+
+### Window Menu
+- **Stream Attributes List Window:**  
+  Display the attributes of the nodes.
+- **Node Properties Window:**  
+  View and edit parameters of the selected node.
+- **Script Editor Window:**  
+  Access the Iter Python Script Editor.
+- **Close:**  
+  Close the current node graph.
+- **Close All:**  
+  Close all open node graphs.
+- **Tile:**  
+  Detach the node graph from the dock.
+- **Cascade:**  
+  Add a node graph within the current workspace.
+- **Next:** `Ctrl+Tab`  
+  Move to the next node graph to the right.
+- **Previous:** `Ctrl+Shift+Backtab`  
+  Move to the previous node graph to the left.
+
+### Help Menu
+- **About:**  
+  Navigate to the documentation (you’re here!).
 
 
 ## Nodes
-
 
 
 #### Create Node
