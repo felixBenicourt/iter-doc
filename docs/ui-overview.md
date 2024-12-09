@@ -4,7 +4,7 @@
 
 ## Pages
 
-1. [README](./README.md)
+1. [README](../README.md)
 2. [User Interface](./docs/ui-overview.md)
 3. [Managing Node Graphs](./docs/managing-node-graphs.md)
 4. [Using Nodes](./docs/using-nodes.md)
