@@ -44,4 +44,16 @@ Each node has a specific purpose, and when combined with other nodes, they can f
 
 By following this logical evaluation process, you can build intricate and dynamic systems by simply combining different nodes and their respective functions.
 
+### Core Systems of Nodes
+
+Please keep in mind that each node can have up to **two core systems**:
+
+1. **Real-Time Feedback System**  
+   This core system allows nodes to manipulate information and provide quick feedback when clicked. It enables you to set up and manipulate your graph dynamically, with live data adjustments as you interact with the node.
+
+2. **Heavy Operation System**  
+   This system is designed for more time-consuming tasks that require heavier computational operations. These operations are triggered when you run your graph through the **Run Node**, which processes the graph in a batch or more intensive manner.
+
+
+
 
