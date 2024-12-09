@@ -1,8 +1,41 @@
 
+# Iter Node Tool Documentation
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+   - [Installation](#installation)
+   - [Launching the Tool](#launching-the-tool)
+3. [UI Overview](#ui-overview)
+   - [Customizing the Layout](#customizing-the-layout)
+   - [Managing Node Graphs](#managing-node-graphs)
+4. [Using Nodes](#using-nodes)
+   - [Creating a Node](#creating-a-node)
+   - [Connecting Nodes](#connecting-nodes)
+   - [Node Properties](#node-properties)
+   - [Cutting Node Connections](#cutting-node-connections)
+5. [Menu Options](#menu-options)
+   - [File Menu](#file-menu)
+   - [Edit Menu](#edit-menu)
+   - [Window Menu](#window-menu)
+   - [Help Menu](#help-menu)
+6. [Advanced Features](#advanced-features)
+   - [Scripting with Python](#scripting-with-python)
+   - [Automation with Macros](#automation-with-macros)
+   - [Integration with DCC Tools](#integration-with-dcc-tools)
+7. [Troubleshooting](#troubleshooting)
+   - [Common Issues](#common-issues)
+   - [FAQs](#faqs)
+8. [Examples and Tutorials](#examples-and-tutorials)
+   - [Basic Node Graph Example](#basic-node-graph-example)
+   - [Advanced Workflow](#advanced-workflow)
+9. [License](#license)
+10. [About the Author](#about-the-author)
+
+---
+
 # Iter Node Tool
-
-For more details, refer to the [Advanced Usage Guide](docs/advanced_usage.md).
-
 
 ## Intro
 The Iter Node Tool is a versatile, node-based system designed to enhance productivity and streamline workflows for artists, developers, and technical directors working in various DCC  such as Maya, Unreal Engine, Houdini, and Blender.
