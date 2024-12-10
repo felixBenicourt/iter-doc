@@ -83,30 +83,6 @@ The **Script Editor** in the Iter Node Tool allows you to write and execute Pyth
 
 ![script_editor](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJsM3VmcDZnaXRtdHF0b2hwOGxvYWxybnd5dWxmeGQyYXJrZzhsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADr67DBYqmQHAk1Zh6/giphy.gif)
 
-
-
-### Using the Iter API
-To start using the Iter API in your scripts, you need to import the API module. Here's an example:
-
-```python
-from iter_instance import itr
-```
-
-Example :
-
-```python
-from  iter_instance import itr
-echoNode = itr.getNodeFromName(name='Echo stream attributes')
-print(echoNode.calcAttributes())
-```
-
-The printed echo :
-
-```
-{'test': ' value', 'a test': 'another value'}
-```
-
-
 ### Script Editor Toolbar
 
 The **Script Editor Toolbar** provides quick access to essential actions for managing your Python scripts.
