@@ -40,6 +40,8 @@ Save your node graph with a meaningful name. In this example, it is saved as **"
 
 ---
 
+![Step 1](https://i.imgur.com/rcIcyiu.png)
+
 ### Step 3: Create a New Scene and Load the Constants
 
 1. Create a new scene and add a **Read File Node**.
