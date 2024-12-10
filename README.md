@@ -4,11 +4,11 @@
 
 ## Pages
 
-1. [README](../../README.md)
-2. [User Interface](../ui-overview.md)
-3. [Using Nodes](../using-nodes.md)
-   - [Node Graph Logic](../node-graph-logic.md)
-   - [Node List](../node-list.md)
+1. [README](./README.md)
+2. [User Interface](./docs/ui-overview.md)
+3. [Using Nodes](./docs/using-nodes.md)
+   - [Node Graph Logic](./docs/node-graph-logic.md)
+   - [Node List](./docs/node-list.md)
      - [Add value](../docs/nodes/add_value.md)
      - [Check files](../docs/nodes/check_files.md)
      - [Constant](../docs/nodes/constant.md)
@@ -36,9 +36,9 @@
      - [Switch](../docs/nodes/switch.md)
      - [Transfert key](../docs/nodes/transfert_key.md)
 
-4. [Scripting with Python](../scripting-with-python.md)
-5. [Node Graph Example](../basic-node-graph-example.md)
-6. [License](../license.md)
+4. [Scripting with Python](./docs/scripting-with-python.md)
+5. [Node Graph Example](./docs/basic-node-graph-example.md)
+6. [License](./docs/license.md)
 
 ---
 
