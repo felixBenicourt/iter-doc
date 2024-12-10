@@ -92,6 +92,14 @@ To start using the Iter API in your scripts, you need to import the API module. 
 from iter_instance import itr
 ```
 
+example :
+
+```python
+from  iter_instance import itr
+echoNode = itr.getNodeFromName(name='Echo stream attributes')
+print(echoNode.calcAttributes())
+```
+
 ### Script Editor Toolbar
 
 The **Script Editor Toolbar** provides quick access to essential actions for managing your Python scripts.
