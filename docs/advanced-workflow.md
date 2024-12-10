@@ -13,7 +13,6 @@
    - [Iter Python API](./iter-python-api.md)
 6. [Examples and Tutorials](./examples-and-tutorials.md)
    - [Basic Node Graph Example](./basic-node-graph-example.md)
-   - [Advanced Workflow](./advanced-workflow.md)
 7. [License](./license.md)
 
 ---
