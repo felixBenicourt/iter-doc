@@ -2,9 +2,10 @@
 # Iter Node Tool Documentation
 
 
+
 ## Pages
 
-1. [README](../../README.md)
+1. [README](./README.md)
 2. [User Interface](../docs/ui-overview.md)
 3. [Using Nodes](../docs/using-nodes.md)
    - [Node Graph Logic](../docs/node-graph-logic.md)
@@ -42,6 +43,7 @@
 
 
 ---
+
 
 
 # Iter Node Tool
