@@ -65,6 +65,10 @@
 ### Stream attributes list
 ![stream_attributes_list](https://i.imgur.com/HitlwGC.png)
 
+The stream attributes work
+![stream_attributes_list](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBraXp0YWZzaXFlbzZ6cTE0MHYxa3d2Y3o3OXkzam9xM2k0ZzZnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PYQjnY7haYad92nNWg/giphy.gif)
+
+
 ### Script editor
 ![script_editor](https://i.imgur.com/sug3wAe.png)
 
