@@ -100,6 +100,13 @@ echoNode = itr.getNodeFromName(name='Echo stream attributes')
 print(echoNode.calcAttributes())
 ```
 
+the printed echo :
+
+```
+{'test': ' value', 'a test': 'another vlaue'}
+```
+
+
 ### Script Editor Toolbar
 
 The **Script Editor Toolbar** provides quick access to essential actions for managing your Python scripts.
