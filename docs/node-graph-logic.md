@@ -58,5 +58,15 @@ Please keep in mind that each node can have up to **two core systems**:
    This system is designed for more time-consuming tasks that require heavier computational operations. These operations are triggered when you run your graph through the **Run Node**, which processes the graph in a batch or more intensive manner.
 
 
+## Attributes
+
+The **Stream Attributes List** in the Iter Node Tool dynamically displays the attributes of the selected node. These attributes are presented in a key-value structure, much like Python dictionaries, providing a clear and organized view.
+
+### Viewing Attributes
+Each node's attributes are listed with their keys and corresponding values, enabling users to review and, if needed, modify them directly. The displayed attributes update automatically based on the selected node.
+
+### Attributes in Node Connections
+When you connect nodes, the **Stream Attributes List** expands to show all the attributes being passed as inputs to the connected nodes. This feature facilitates smooth data transfer and ensures the accurate flow of information between nodes.
+
 
 
