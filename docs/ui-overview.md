@@ -62,15 +62,37 @@
   Navigate to the documentation (you’re here!).
 
 
-### Stream attributes list
+## Stream Attributes List
+
 ![stream_attributes_list](https://i.imgur.com/HitlwGC.png)
 
-The stream attributes work
+When you click on a node in the Iter Node Tool, the **Stream Attributes List** will display all the available attributes associated with that node. Each attribute is represented by a key and a corresponding value, similar to how Python dictionaries are structured.
+
+### Attribute Format
+The attributes are shown in a key-value format, allowing you to easily view and modify them. These attributes are dynamic, and their values can be changed based on the context of the node.
+
+### Node Connections
+When nodes are connected, the **Stream Attributes List** will display all the attributes as inputs for the connected nodes. This allows you to easily pass data between nodes and ensure that the correct attributes are being transferred.
+
 ![stream_attributes_list](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBraXp0YWZzaXFlbzZ6cTE0MHYxa3d2Y3o3OXkzam9xM2k0ZzZnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PYQjnY7haYad92nNWg/giphy.gif)
 
 
-### Script editor
+## Script Editor
+
+The **Script Editor** in the Iter Node Tool allows you to write and execute Python scripts directly within the application. This feature is particularly useful for creating macros and automating workflows using the Iter API.
+
 ![script_editor](https://i.imgur.com/sug3wAe.png)
+
+### Using the Iter API
+To start using the Iter API in your scripts, you need to import the API module. Here's an example:
+
+```python
+from iter_instance import itr
+```
+
+
+
+
 
 
 
