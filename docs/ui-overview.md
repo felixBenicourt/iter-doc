@@ -92,7 +92,7 @@ To start using the Iter API in your scripts, you need to import the API module. 
 from iter_instance import itr
 ```
 
-example :
+Example :
 
 ```python
 from  iter_instance import itr
@@ -100,7 +100,7 @@ echoNode = itr.getNodeFromName(name='Echo stream attributes')
 print(echoNode.calcAttributes())
 ```
 
-the printed echo :
+The printed echo :
 
 ```
 {'test': ' value', 'a test': 'another vlaue'}
