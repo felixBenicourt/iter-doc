@@ -18,4 +18,12 @@
 
 ---
 
+## Script Editor
+
+The **Script Editor** in the Iter Node Tool allows you to write and execute Python scripts directly within the application. This feature is particularly useful for creating macros and automating workflows using the Iter API.
+
+![step_01](https://i.imgur.com/9Oy0txQ.png)
+
+![step_02](https://i.imgur.com/rcIcyiu.png)
+
 
