@@ -18,12 +18,52 @@
 
 ---
 
-## Script Editor
+## Example: Creating a Scene and Accessing Node Variables
 
-The **Script Editor** in the Iter Node Tool allows you to write and execute Python scripts directly within the application. This feature is particularly useful for creating macros and automating workflows using the Iter API.
+This example demonstrates how Iter manages scenes, allowing you to load, reuse, and refactor them to build complex setups from simple, reusable node graphs.
 
-![step_01](https://i.imgur.com/9Oy0txQ.png)
+---
 
-![step_02](https://i.imgur.com/rcIcyiu.png)
+### Step 1: Create and Configure Nodes
+
+1. Add multiple **Constant Nodes** and define their key-value pairs. 
+2. Merge these nodes and manipulate their data as needed.
+3. Include an **Echo Stream Attribute Node**, rename it for clarity (e.g., "Echo var").
+
+![Step 1](https://i.imgur.com/9Oy0txQ.png)
+
+---
+
+### Step 2: Save the Node Graph
+
+Save your node graph with a meaningful name. In this example, it is saved as **"CONSTANTS"**.
+
+---
+
+### Step 3: Create a New Scene and Load the Constants
+
+1. Create a new scene and add a **Read File Node**.
+   - Use this node to specify the file path for the saved **CONSTANTS** graph.
+   - Assign the file path to a custom attribute (e.g., `"path"`).
+2. Add a **Python Iter Node** and a **Run Node**.
+3. In the **Python Iter Node**, input the following code:
+
+```python
+from commands import iter_instance
+
+# Load the saved node graph from the specified path
+iter_instance.fileLoad(input_data['path'])
+
+# Access the "Echo var" node by its custom name
+echoNode = iter_instance.getNodeFromCustomName("Echo var")
+
+# Print the attributes of the Echo node if found
+if echoNode:
+    print(echoNode.calcAttributes())
+else:
+    print({'test': None})
+
+
+
 
 
