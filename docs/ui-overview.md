@@ -90,6 +90,15 @@ To start using the Iter API in your scripts, you need to import the API module. 
 from iter_instance import itr
 ```
 
+### Script Editor Toolbar
+
+The **Script Editor Toolbar** provides quick access to essential actions for managing your Python scripts.
+
+- **Run Icon**: Executes the current Python script in the editor.
+- **Open Folder Icon**: Loads an existing Python script into the editor.
+- **Disk Icon**: Saves the current script as a Python file.
+
+These tools streamline your workflow, making it easy to edit, save, and execute scripts directly within the Iter Node Tool.
 
 
 
