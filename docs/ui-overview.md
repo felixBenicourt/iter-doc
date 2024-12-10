@@ -83,6 +83,8 @@ The **Script Editor** in the Iter Node Tool allows you to write and execute Pyth
 
 ![script_editor](https://i.imgur.com/yGgwulH.gif)
 
+
+
 ### Using the Iter API
 To start using the Iter API in your scripts, you need to import the API module. Here's an example:
 
