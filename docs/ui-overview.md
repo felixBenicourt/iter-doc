@@ -63,10 +63,10 @@
 
 
 ### Stream attributes list
-
+![stream_attributes_list](https://i.imgur.com/HitlwGC.png)
 
 ### Script editor
-
+![script_editor](https://i.imgur.com/sug3wAe.png)
 
 
 
