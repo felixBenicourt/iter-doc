@@ -81,7 +81,7 @@ When nodes are connected, the **Stream Attributes List** will display all the at
 
 The **Script Editor** in the Iter Node Tool allows you to write and execute Python scripts directly within the application. This feature is particularly useful for creating macros and automating workflows using the Iter API.
 
-![script_editor](https://i.imgur.com/sug3wAe.png)
+![script_editor](https://i.imgur.com/yGgwulH.gif)
 
 ### Using the Iter API
 To start using the Iter API in your scripts, you need to import the API module. Here's an example:
