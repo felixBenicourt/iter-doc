@@ -22,6 +22,9 @@
 ### Using the Iter API
 To start using the Iter API in your scripts, you need to import the API module. Here's an example:
 
+![python_example](https://i.imgur.com/qoiDeFd.png)
+
+
 ```python
 from iter_instance import itr
 ```
@@ -37,6 +40,6 @@ print(echoNode.calcAttributes())
 The printed echo :
 
 ```
-{'test': ' value', 'a test': 'another value'}
+{'test': 'value', 'another test': 'another value'}
 ```
 
