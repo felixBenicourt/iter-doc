@@ -103,7 +103,7 @@ print(echoNode.calcAttributes())
 The printed echo :
 
 ```
-{'test': ' value', 'a test': 'another vlaue'}
+{'test': ' value', 'a test': 'another value'}
 ```
 
 
