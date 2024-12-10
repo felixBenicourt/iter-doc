@@ -11,10 +11,10 @@
 5. [Scripting with Python](./scripting-with-python.md)
 6. [Examples and Tutorials](./examples-and-tutorials.md)
    - [Basic Node Graph Example](./basic-node-graph-example.md)
-   - [Advanced Workflow](./advanced-workflow.md)
 7. [License](./license.md)
 
 ---
+
 
 
 This section explains how nodes work and interact with each other. For a deeper understanding, you may find the following resources helpful:
