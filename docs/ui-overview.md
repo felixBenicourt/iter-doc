@@ -60,3 +60,13 @@
 ### Help Menu
 - **About:**  
   Navigate to the documentation (you’re here!).
+
+
+### Stream attributes list
+
+
+### Script editor
+
+
+
+
