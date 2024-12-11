@@ -37,9 +37,9 @@
      - [Switch](./docs/nodes/switch.md)
      - [Transfer Key](./docs/nodes/transfert_key.md)
 
-4. [Scripting with Python](./scripting-with-python.md)
-5. [Node Graph Example](./basic-node-graph-example.md)
-6. [License](./license.md)
+4. [Scripting with Python](./docs/scripting-with-python.md)
+5. [Node Graph Example](./docs/basic-node-graph-example.md)
+6. [License](./docs/license.md)
 
 
 ---
