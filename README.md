@@ -81,7 +81,7 @@ rez env iter -- iter
 
 
 #### Edit UI
-![edit ui](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY2YmZ0cGI3Z3NnYWJkbzNpeGM3azZhc2o5bG0wd2FiMWcxY2FkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F63dKnXzlPTSUoaWB2/giphy.webp)
+![edit ui](https://natalieheatherdavis.com/wp-content/uploads/2025/01/edit_ui.gif)
 
 You can easily customize the layout of the UI by changing the positions of the windows and docking them wherever you prefer.
 
